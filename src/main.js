@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
+
 // 加载element组件库
 import ElementUI from 'element-ui'
 // 加载element组件库的样式
